@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Hamza Ali
 
-Time spent: **#** hours spent in total
+Time spent: 8 hours spent in total
 
 Link to project: (insert your link here, should start with https://shelled-sky-joke.glitch.me/)
 
@@ -39,23 +39,26 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](winningGame.gif)
-![](losingGame.gif)
+![](WinningGame.gif)
+![](LosingGame.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+The websites I used to help me complete the optional choices is freecodecamp and w3schools
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+While going through the required steps, the guide was very easy to understand and easy to follow so I did not have any trouble getting through. However, with the optional portion of the prework, getting the image into the assets in glitch did not work of getting any image to be used no matter how many types of images I used. So, another method I used was a background image of a url which fixes the issue of getting a background image for the button. How I was able to overcome this was first I look up on the issue with the assets and how I can get it to work. After looking into it, it seems to be more of a technical issue from their side so I could do much about the assets issues I am having. Afterwards, I investigate another approach of using which was using an image’s url instead of downloading and import the image into the glitch. Though this method does work, it is also a risk because anything can happen to the links to where the link would not be available to access when it gets removed from where it originally came from. For the borders to have a gradient look when the button is activated, I did not know how to do that, so I searched up how to it. It took a few tries until I got the result I was looking for.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+The questions I have about web development is first, will we be using API during the internship and if so, what data will we be using and how will it be used? Second, what are the major concepts of web development that will be covering during the internship? Third, when making a website, how would you officially make your own website that anyone is about to search up and interact with as well as being able be active for years? Finally, when creating a design for your own website, rather than using others pre-existing designs, how can you create your own original designs?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+If I have a few more hours to work on this project, I will try to fix some issues that the required does not cover. One would be when disabling the user from pressing the button while it is displaying the next button to press because if you try pressing the buttons while it’s displaying the next button, then it messes up the game and becomes hard to know what buttons to press. Another one I would do is give random patterns instead of the same patterns repeatedly to make the game more interesting. Lastly, I would want to make a scoreboard to see how far the user can get without failing and saves the user’s best score so far.
 
 
 
